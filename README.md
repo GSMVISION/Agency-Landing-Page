@@ -8,6 +8,8 @@ Welcome to the **Simple PHP Web Application** repository! This project is a basi
 
 ## Project Files
 
+- **`images`**: Contains images found on the Site Web (UI) .
+- **`uploads`**: It contains images that are entered into the site via DASHBOARD .
 - **`conn.php`**: Manages the connection to the MySQL database.
 - **`edite.php`**: Provides functionality to edit database records.
 - **`index.php`**: Main page displaying database records.
@@ -26,6 +28,10 @@ Welcome to the **Simple PHP Web Application** repository! This project is a basi
 ```
 G-VISION/
 │
+│Images/
+├──
+│upoloads/
+├──
 ├── conn.php
 ├── edite.php
 ├── index.php
