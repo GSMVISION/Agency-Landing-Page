@@ -52,7 +52,6 @@ G-VISION/
 
 1. **Clone the Repository**:
    ```bash
-   
    git clone [[GIT]([https://github.com/GSMVISION/Agency-Landing-Page-/blob/main/LICENSE](https://github.com/GSMVISION/Agency-Landing-Page-.git))](GIT)
    cd php-project
    ```
