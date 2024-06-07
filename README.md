@@ -94,5 +94,4 @@ This project is licensed under the MIT License. See the [[LICENSE](https://githu
 Special thanks to the PHP community for comprehensive documentation and support.
 
 ---
-
-This README includes new pages, keeping the description clear and concise, and provides necessary instructions for setting up and using the application effectively.
+---
