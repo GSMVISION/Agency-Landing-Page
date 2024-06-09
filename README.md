@@ -4,7 +4,7 @@
 
 # Simple PHP Web Site
 
-Welcome to the **Simple PHP Web Site**  for **AGENCY MARKETING** repository! This project is a basic PHP-based web application showcasing CRUD (Create, Read, Update, Delete) operations with a MySQL database. Ideal for beginners, it includes essential pages for managing clients, feedback, and administration.
+Welcome to the **Simple PHP Web Site**  for **AGENCY MARKETING** repository! This project is a basic PHP-based web site showcasing CRUD (Create, Read, Update, Delete) operations with a MySQL database. Ideal for beginners, it includes essential pages for managing clients, feedback, and administration.
 
 ## Project Files
 
