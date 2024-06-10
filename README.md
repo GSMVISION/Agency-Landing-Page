@@ -1,6 +1,5 @@
 ---
 ---
----
 
 # Simple PHP Web Site
 
