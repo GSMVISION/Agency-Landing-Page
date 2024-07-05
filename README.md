@@ -91,7 +91,7 @@ Contributions are welcome! Fork the repository, create a new branch, and submit 
 
 ## License
 
-This project is licensed under the MIT License. See the [[LICENSE](https://github.com/GSMVISION/Agency-Landing-Page-/blob/main/LICENSE)] file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/GSMVISION/Agency-Landing-Page-/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
